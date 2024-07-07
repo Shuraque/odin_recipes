@@ -5,3 +5,6 @@ All the content is gathered from allrecipes, specfically:
 
 (Banana Pudding)
 https://www.allrecipes.com/recipe/22749/the-best-banana-pudding/ 
+
+(Fried Chicken)
+https://www.allrecipes.com/recipe/8805/crispy-fried-chicken/
